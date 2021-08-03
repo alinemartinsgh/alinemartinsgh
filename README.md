@@ -3,6 +3,10 @@
 ## I'm Aline :) 
 
 :computer: I’m currently working on Global Hitss as Junior Developer Analyst
+:books: I’m currently learning React and React Native
+
+## How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/alinep-martins/)]( https://www.linkedin.com/in/alinep-martins/)
 
 <!--
 **alinemartinsgh/alinemartinsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
