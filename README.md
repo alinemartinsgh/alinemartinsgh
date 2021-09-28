@@ -3,7 +3,7 @@
 ## I'm Aline :) 
 
 - :computer: I’m currently working on Global Hitss as Junior Developer Analyst
-- :books: I’m currently learning React and React Native
+- :books: I’m currently learning React and React Native with Typescript
 
 #### How to reach me
 
